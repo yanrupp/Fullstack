@@ -1,0 +1,42 @@
+.Yan{
+    color: rgb(52, 141, 201);
+}
+
+a:hover{
+    color:hsl(192, 64%, 48%);
+}
+
+
+.Python{
+    color: #00aeff;
+}
+
+.CSS{
+    color: blue;
+}
+
+.HTML{
+    color: red;
+}
+
+.JS{
+    color:yellow;
+}
+
+p{
+    font-size: 18pt;
+}
+
+body{
+     background-image:linear-gradient(hsl(195, 52%, 70%))
+}
+
+iframe{
+    border-radius: 20px;
+    border: 3px solid rgb(47, 150, 214); 
+}
+
+.localizacao{
+    color:rgb(52, 141, 201)
+}
+
